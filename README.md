@@ -12,7 +12,7 @@ You may also find these useful (one-click to download all [here](https://drive.g
 • [Screencaps Generator](https://github.com/pftq/Screencaps-Generator) (smart screencaps selection + gallery grid sheet)\
 • [Video To Selective Color](https://github.com/pftq/Video-To-Selective-Color) (selectively leave things in color on black-and-white video)
 
-Made mainly to complement the VideoFrameSync and VideoColorMatch tools I also have that can work with masks (such as for the WAN VACE Masking workflow I created [here](https://civitai.com/models/1536883/wan-vace-masking-and-extension-seamlessly-extend-join-and-auto-fill-existing-videos-while-maintaining-motion)).  I used to use Adobe Premiere and After Effects to manually draw masks, but it's so heavy and slow.  This tool loads up in seconds and is very fast, doesn't lag.
+Made mainly to complement the VideoFrameSync and VideoColorMatch tools I also have that can work with masks (such as for the WAN VACE Masking workflow I created [here](https://civitai.com/models/1536883/wan-vace-masking-and-extension-seamlessly-extend-join-and-auto-fill-existing-videos-while-maintaining-motion)).  I used to use Adobe Premiere and After Effects to manually draw masks + apply the feathering/fade-in, but it's so heavy and slow.  This tool loads up in seconds and is very fast, doesn't lag.
 
 It also now includes the functionality of VideoFrameSync and VideoColorMatch so you can sync, color-correct, and merge the changes back to the original clip in the same tool.
 
