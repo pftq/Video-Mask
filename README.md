@@ -1,5 +1,5 @@
 # Video-Mask
-Tool to quickly draw masks on videos without loading up Adobe Premiere or After Effects.
+Tool to quickly draw masks on videos without loading up Adobe Premiere or After Effects.  It'll then take new footage with the masks replaced and seamlessly merge back over the original with automatic feathering and fade-in.
 
 Download here: https://github.com/pftq/Video-Mask/releases/tag/20261121<br>
 You may also find these useful (one-click to download all [here](https://drive.google.com/drive/folders/1nvQFC5uwsZlf-82LuskCP-qut9xHw-lt?usp=sharing)):\
