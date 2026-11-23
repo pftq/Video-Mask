@@ -38,10 +38,15 @@ https://youtu.be/4iGRRb6P10U
 https://www.youtube.com/watch?v=oK_g9JxLPvw
 
 Credits:
+
 Python, application runtime
+
 Tcl/Tk, desktop interface and interactive mask editor
+
 NumPy, frame and mask calculations
+
 OpenCV, mask expansion, shrinking, and feathering
+
 Pillow, frame previews and mask overlays
 PyAV / FFmpeg, video and audio decoding, encoding, and MP4 export
 PyInstaller, Windows executable packaging
