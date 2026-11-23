@@ -48,5 +48,7 @@ NumPy, frame and mask calculations
 OpenCV, mask expansion, shrinking, and feathering
 
 Pillow, frame previews and mask overlays
+
 PyAV / FFmpeg, video and audio decoding, encoding, and MP4 export
+
 PyInstaller, Windows executable packaging
