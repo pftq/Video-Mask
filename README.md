@@ -21,7 +21,9 @@ It also now includes the functionality of VideoFrameSync and VideoColorMatch so 
 <img width="1071" height="740" alt="image" src="https://github.com/user-attachments/assets/94158590-ed46-4b58-ba5c-3358809c9c0d" />
 
 You then take the masked video and feed it into WAN VACE to "auto-fill" the masked areas.
+
 Examples:
+
 https://github.com/user-attachments/assets/c3091aa4-dd06-46d9-b489-248c340f6bd3
 
 https://youtu.be/0gx6bbVnM3M
