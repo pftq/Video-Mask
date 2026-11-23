@@ -19,3 +19,22 @@ It also now includes the functionality of VideoFrameSync and VideoColorMatch so 
 <img width="1074" height="747" alt="image" src="https://github.com/user-attachments/assets/f2d19a54-c994-4f37-8266-419ffd1e205b" />
 
 <img width="1071" height="740" alt="image" src="https://github.com/user-attachments/assets/94158590-ed46-4b58-ba5c-3358809c9c0d" />
+
+You then take the masked video and feed it into WAN VACE to "auto-fill" the masked areas.
+Examples:
+https://github.com/user-attachments/assets/c3091aa4-dd06-46d9-b489-248c340f6bd3
+https://youtu.be/0gx6bbVnM3M
+https://youtu.be/_fmc-Ovh5CU
+
+Timelapses of what it's like editing with this process:
+https://youtu.be/4iGRRb6P10U
+https://www.youtube.com/watch?v=oK_g9JxLPvw
+
+Credits:
+Python, application runtime
+Tcl/Tk, desktop interface and interactive mask editor
+NumPy, frame and mask calculations
+OpenCV, mask expansion, shrinking, and feathering
+Pillow, frame previews and mask overlays
+PyAV / FFmpeg, video and audio decoding, encoding, and MP4 export
+PyInstaller, Windows executable packaging
