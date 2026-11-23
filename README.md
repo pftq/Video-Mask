@@ -16,4 +16,6 @@ Made mainly to complement the VideoFrameSync and VideoColorMatch tools I also ha
 
 It also now includes the functionality of VideoFrameSync and VideoColorMatch so you can sync, color-correct, and merge the changes back to the original clip in the same tool.
 
-<img width="1080" height="748" alt="image" src="https://github.com/user-attachments/assets/1308dd22-700a-4db3-a38d-84b678cc353b" />
+<img width="1074" height="747" alt="image" src="https://github.com/user-attachments/assets/f2d19a54-c994-4f37-8266-419ffd1e205b" />
+
+<img width="1071" height="740" alt="image" src="https://github.com/user-attachments/assets/94158590-ed46-4b58-ba5c-3358809c9c0d" />
